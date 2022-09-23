@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/benkrisna/Projects/Jonathan/mecanum-wheel'
+let g:netrw_dirhist_7='/home/benkrisna/Projects/Jonathan/mecanum-wheel/src'
+let g:netrw_dirhist_6='/home/benkrisna/Documents/Stanford/Projects/ben-tools/pythonScripts'
+let g:netrw_dirhist_5='/home/benkrisna/cpp/opengl'
+let g:netrw_dirhist_4='/home/benkrisna/cpp/opengl/glad'
+let g:netrw_dirhist_3='/home/benkrisna/tutorials/cmake-3.24.0-rc3-tutorial-source/Step1'
+let g:netrw_dirhist_2='/home/benkrisna/Documents/itv/unstretchedLaminarFlame'
+let g:netrw_dirhist_1='/home/benkrisna/Documents/itv/unstretchedLaminarFlame/results'
+let g:netrw_dirhist_0='/home/benkrisna/.vim/UltiSnips'
+let g:netrw_dirhist_9='/home/benkrisna/Documents/itv/unstretchedLaminarFlame/results/2D/E_4.12_new'
